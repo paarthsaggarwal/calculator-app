@@ -9,5 +9,6 @@ And: https://realpython.com/mobile-app-kivy-python/#installing-kivy
 
 # key things to consider
 1. Create it in a google colab environment
-2. Update .spec file with version number of Kivy, Kivymd and Pillow as shown below.
+2. Update the code filename as 'main.py'
+3. Update .spec file with version number of Kivy, Kivymd and Pillow as shown below.
 requirements = python3,kivy==2.0.0,kivymd,pillow
